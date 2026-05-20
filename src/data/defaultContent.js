@@ -209,72 +209,40 @@ export const defaultContent = {
   ],
   "posts": [
     {
-      "slug": "ai-business-development-institutional-knowledge",
-      "title": "What I'm learning about AI, business development, and institutional knowledge",
+      "slug": "org-scaling",
+      "title": "What Breaks When Organizations Scale",
       "date": "Latest Post",
-      "readTime": "4 min read",
-      "topic": "AI Strategy",
-      "excerpt": "Thinking through how AI becomes useful when it is embedded directly into messy human workflows, not just placed on top of them.",
-      "sections": [
-        {
-          "heading": "The real problem is not lack of information.",
-          "body": "Most teams already have more information than they know what to do with. The issue is that the information lives across decks, inboxes, CRMs, documents, spreadsheets, and people's heads. AI becomes valuable when it helps connect those pieces into a workflow someone can actually use."
-        },
-        {
-          "heading": "Useful AI has to sit inside the way people already work.",
-          "body": "A tool can be technically impressive and still fail if it asks people to change too much at once. The better approach is to understand the current workflow first, then use AI to remove friction from the moments that are already repetitive, research-heavy, or decision-heavy."
-        },
-        {
-          "heading": "Institutional knowledge is a business asset.",
-          "body": "The more I work across business development and operations, the more I see institutional knowledge as infrastructure. When it is organized well, teams move faster, onboard faster, and make better decisions with less dependency on one person remembering everything."
-        }
-      ]
-    },
-    {
-      "slug": "operations-is-not-admin-work",
-      "title": "Why operations is not just admin work",
-      "date": "Essay Draft",
-      "readTime": "3 min read",
+      "readTime": "10 min read",
       "topic": "Operations",
-      "excerpt": "The best operators do not just keep things moving. They create the systems that let good work repeat itself.",
+      "excerpt": "What scaling taught me about leadership, infrastructure, and organizational design.",
       "sections": [
         {
-          "heading": "Operations is the difference between effort and repeatability.",
-          "body": "A lot of people think operations is just scheduling, documentation, or keeping things organized. Those things matter, but the deeper value is designing systems that make strong execution easier to repeat."
+          "heading": "Organizations that are not built to scale will eventually outgrow their own infrastructure",
+          "body": "When I joined Generate, I knew almost nothing about operations, organizational structure, or what it actually meant to keep a large organization functioning cohesively. As I stayed longer, the organization grew alongside me. What started as a smaller, more connected environment eventually scaled into a 200+ member product development studio with dozens of client teams, leadership layers, and years of institutional history behind it. As the organization grew, the problems changed too. Things that worked naturally at a smaller scale stopped working entirely. Communication became fragmented, culture became harder to maintain, and information started disappearing faster than people realized. The biggest thing I learned was that organizations do not scale automatically. Eventually, every growing organization reaches a point where the systems underneath it are no longer strong enough to support the people inside it."
         },
         {
-          "heading": "Good systems protect good work.",
-          "body": "When a team grows, informal communication starts breaking. The operator's job is to build enough structure that people know what matters, where things live, who owns what, and how decisions get made."
+          "heading": "Communication becomes exponentially harder as organizations grow.",
+          "body": "Most organizations assume communication is solved by sending more announcements through Slack, email, or Notion, but people in large organizations stop paying attention to centralized communication very quickly. Not because they do not care, but because everyone operates within their own bubble: their project team, their department, and the people they work with daily. It becomes almost impossible for one centralized person or leadership group to communicate effectively with everyone at scale. What actually works is distributed communication ownership. Information spreads more effectively when leadership at every level takes responsibility for translating and communicating information to the people directly under them. People are significantly more likely to absorb information from someone within their own working environment than from a distant organization wide announcement."
         },
         {
-          "heading": "The best ops work feels invisible when it works.",
-          "body": "A strong operating system does not need to be loud. It shows up in fewer dropped balls, clearer handoffs, better meetings, cleaner onboarding, and a team that can scale without constantly reinventing the same process."
+          "heading": "Growth slowly fragments culture if nobody intentionally maintains it.",
+          "body": "One of the most surprising things about growth is how quickly culture dilutes. During my first semester in Generate, many older members had already been in the organization for years and carried forward traditions, mentorship dynamics, and institutional habits from previous generations. But within a year, many of those members had graduated or left, and the organization started fragmenting in subtle ways. People became increasingly attached to their own project teams rather than the organization as a whole, and organization wide events slowly started losing meaning because newer members lacked the context behind why those traditions existed in the first place. Culture stops sustaining itself organically once organizations reach a certain size. It has to be intentionally reinforced through onboarding, mentorship, leadership continuity, shared rituals, and systems that create interaction outside of immediate working groups."
+          },
+    {
+      "heading": "Institutional knowledge disappears faster than people realize.",
+      "body": "Rapid growth creates a massive documentation problem. Generate had over ten years of client work, operational history, alumni records, and project information spread across disconnected Google Drive folders and outdated systems. A huge amount of institutional knowledge technically existed, but functionally, nobody could find or use it. Over time, I helped reorganize historical client records, onboarding systems, operational workflows, alumni data, project charters, and leadership handoff documentation into something future teams could actually build on instead of constantly recreating from scratch. That experience completely changed the way I think about documentation. Good documentation is not about organization for the sake of neatness. It is about continuity."
+    },
+    {
+      "heading": "Leadership eventually becomes infrastructure.",
+      "body": "In smaller organizations, leadership often operates through personality, proximity, and direct interaction. But at scale, leadership becomes infrastructure. The role of leadership shifts from simply directing people to building systems that allow communication, execution, coordination, and knowledge transfer to happen consistently without constant intervention. Good leadership infrastructure reduces friction. It creates clarity around ownership, communication, and execution so organizations can continue functioning effectively even as complexity increases."
+    },
+    {
+      "heading": "Systems become necessary when complexity outpaces people.",
+      "body": "Without systems, people waste enormous amounts of time searching for information, clarifying ownership, recreating workflows, and manually transferring knowledge. This is why operational systems become necessary at scale, especially AI enabled ones. Well designed systems centralize information, preserve institutional knowledge, automate repetitive processes, and reduce operational friction across organizations. The value is not just efficiency. It is scalability. The larger an organization becomes, the less it can rely on memory, informal communication, and individual effort alone."
         }
       ]
     },
-    {
-      "slug": "business-law-tech-career-map",
-      "title": "Building a career across business, law, and tech",
-      "date": "Notebook",
-      "readTime": "5 min read",
-      "topic": "Career",
-      "excerpt": "A personal map of how legal thinking, business development, and product strategy can fit together.",
-      "sections": [
-        {
-          "heading": "I like work that lives between disciplines.",
-          "body": "The most interesting problems rarely fit cleanly into one lane. Business, law, and technology all shape how companies grow, protect themselves, make decisions, and build products people actually use."
-        },
-        {
-          "heading": "Legal thinking makes strategy sharper.",
-          "body": "Studying law has made me more careful with language, risk, incentives, and structure. That way of thinking is useful far beyond legal work because strong strategy depends on understanding constraints as much as possibilities."
-        },
-        {
-          "heading": "The career thread is building better systems.",
-          "body": "Across startups, product teams, and professional services, I keep coming back to the same type of work: finding messy workflows, understanding what is broken, and building systems that help teams move with more clarity."
-        }
-      ]
-    }
-  ],
+    
   "filters": [
     "All",
     "AI Strategy",
