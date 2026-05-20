@@ -250,6 +250,4 @@
   "Operations",
   "Career"
 ]
-};
-
-export const navItems = ["Work", "Projects", "Writing", "Contact"];
+}
