@@ -208,47 +208,47 @@ export const defaultContent = {
     }
   ],
   "posts": [
-    {
-      "slug": "org-scaling",
-      "title": "What Breaks When Organizations Scale",
-      "date": "Latest Post",
-      "readTime": "10 min read",
-      "topic": "Operations",
-      "excerpt": "What scaling taught me about leadership, infrastructure, and organizational design.",
-      "sections": [
-        {
-          "heading": "Organizations that are not built to scale will eventually outgrow their own infrastructure",
-          "body": "When I joined Generate, I knew almost nothing about operations, organizational structure, or what it actually meant to keep a large organization functioning cohesively. As I stayed longer, the organization grew alongside me. What started as a smaller, more connected environment eventually scaled into a 200+ member product development studio with dozens of client teams, leadership layers, and years of institutional history behind it. As the organization grew, the problems changed too. Things that worked naturally at a smaller scale stopped working entirely. Communication became fragmented, culture became harder to maintain, and information started disappearing faster than people realized. The biggest thing I learned was that organizations do not scale automatically. Eventually, every growing organization reaches a point where the systems underneath it are no longer strong enough to support the people inside it."
-        },
-        {
-          "heading": "Communication becomes exponentially harder as organizations grow.",
-          "body": "Most organizations assume communication is solved by sending more announcements through Slack, email, or Notion, but people in large organizations stop paying attention to centralized communication very quickly. Not because they do not care, but because everyone operates within their own bubble: their project team, their department, and the people they work with daily. It becomes almost impossible for one centralized person or leadership group to communicate effectively with everyone at scale. What actually works is distributed communication ownership. Information spreads more effectively when leadership at every level takes responsibility for translating and communicating information to the people directly under them. People are significantly more likely to absorb information from someone within their own working environment than from a distant organization wide announcement."
-        },
-        {
-          "heading": "Growth slowly fragments culture if nobody intentionally maintains it.",
-          "body": "One of the most surprising things about growth is how quickly culture dilutes. During my first semester in Generate, many older members had already been in the organization for years and carried forward traditions, mentorship dynamics, and institutional habits from previous generations. But within a year, many of those members had graduated or left, and the organization started fragmenting in subtle ways. People became increasingly attached to their own project teams rather than the organization as a whole, and organization wide events slowly started losing meaning because newer members lacked the context behind why those traditions existed in the first place. Culture stops sustaining itself organically once organizations reach a certain size. It has to be intentionally reinforced through onboarding, mentorship, leadership continuity, shared rituals, and systems that create interaction outside of immediate working groups."
-          },
-    {
-      "heading": "Institutional knowledge disappears faster than people realize.",
-      "body": "Rapid growth creates a massive documentation problem. Generate had over ten years of client work, operational history, alumni records, and project information spread across disconnected Google Drive folders and outdated systems. A huge amount of institutional knowledge technically existed, but functionally, nobody could find or use it. Over time, I helped reorganize historical client records, onboarding systems, operational workflows, alumni data, project charters, and leadership handoff documentation into something future teams could actually build on instead of constantly recreating from scratch. That experience completely changed the way I think about documentation. Good documentation is not about organization for the sake of neatness. It is about continuity."
-    },
-    {
-      "heading": "Leadership eventually becomes infrastructure.",
-      "body": "In smaller organizations, leadership often operates through personality, proximity, and direct interaction. But at scale, leadership becomes infrastructure. The role of leadership shifts from simply directing people to building systems that allow communication, execution, coordination, and knowledge transfer to happen consistently without constant intervention. Good leadership infrastructure reduces friction. It creates clarity around ownership, communication, and execution so organizations can continue functioning effectively even as complexity increases."
-    },
-    {
-      "heading": "Systems become necessary when complexity outpaces people.",
-      "body": "Without systems, people waste enormous amounts of time searching for information, clarifying ownership, recreating workflows, and manually transferring knowledge. This is why operational systems become necessary at scale, especially AI enabled ones. Well designed systems centralize information, preserve institutional knowledge, automate repetitive processes, and reduce operational friction across organizations. The value is not just efficiency. It is scalability. The larger an organization becomes, the less it can rely on memory, informal communication, and individual effort alone."
-        }
-      ]
-    },
-    
-  "filters": [
-    "All",
-    "AI Strategy",
-    "Operations",
-    "Career"
-  ]
-};
+  {
+    "slug": "org-scaling",
+    "title": "What Breaks When Organizations Scale",
+    "date": "Latest Post",
+    "readTime": "10 min read",
+    "topic": "Operations",
+    "excerpt": "What scaling taught me about leadership, infrastructure, and organizational design.",
+    "sections": [
+      {
+        "heading": "Organizations that are not built to scale will eventually outgrow their own infrastructure",
+        "body": "When I joined Generate, I knew almost nothing about operations, organizational structure, or what it actually meant to keep a large organization functioning cohesively. As I stayed longer, the organization grew alongside me. What started as a smaller, more connected environment eventually scaled into a 200+ member product development studio with dozens of client teams, leadership layers, and years of institutional history behind it. As the organization grew, the problems changed too. Things that worked naturally at a smaller scale stopped working entirely. Communication became fragmented, culture became harder to maintain, and information started disappearing faster than people realized. The biggest thing I learned was that organizations do not scale automatically. Eventually, every growing organization reaches a point where the systems underneath it are no longer strong enough to support the people inside it."
+      },
+      {
+        "heading": "Communication becomes exponentially harder as organizations grow.",
+        "body": "Most organizations assume communication is solved by sending more announcements through Slack, email, or Notion, but people in large organizations stop paying attention to centralized communication very quickly. Not because they do not care, but because everyone operates within their own bubble: their project team, their department, and the people they work with daily. It becomes almost impossible for one centralized person or leadership group to communicate effectively with everyone at scale. What actually works is distributed communication ownership. Information spreads more effectively when leadership at every level takes responsibility for translating and communicating information to the people directly under them. People are significantly more likely to absorb information from someone within their own working environment than from a distant organization wide announcement."
+      },
+      {
+        "heading": "Growth slowly fragments culture if nobody intentionally maintains it.",
+        "body": "One of the most surprising things about growth is how quickly culture dilutes. During my first semester in Generate, many older members had already been in the organization for years and carried forward traditions, mentorship dynamics, and institutional habits from previous generations. But within a year, many of those members had graduated or left, and the organization started fragmenting in subtle ways. People became increasingly attached to their own project teams rather than the organization as a whole, and organization wide events slowly started losing meaning because newer members lacked the context behind why those traditions existed in the first place. Culture stops sustaining itself organically once organizations reach a certain size. It has to be intentionally reinforced through onboarding, mentorship, leadership continuity, shared rituals, and systems that create interaction outside of immediate working groups."
+      },
+      {
+        "heading": "Institutional knowledge disappears faster than people realize.",
+        "body": "Rapid growth creates a massive documentation problem. Generate had over ten years of client work, operational history, alumni records, and project information spread across disconnected Google Drive folders and outdated systems. A huge amount of institutional knowledge technically existed, but functionally, nobody could find or use it. Over time, I helped reorganize historical client records, onboarding systems, operational workflows, alumni data, project charters, and leadership handoff documentation into something future teams could actually build on instead of constantly recreating from scratch. That experience completely changed the way I think about documentation. Good documentation is not about organization for the sake of neatness. It is about continuity."
+      },
+      {
+        "heading": "Leadership eventually becomes infrastructure.",
+        "body": "In smaller organizations, leadership often operates through personality, proximity, and direct interaction. But at scale, leadership becomes infrastructure. The role of leadership shifts from simply directing people to building systems that allow communication, execution, coordination, and knowledge transfer to happen consistently without constant intervention. Good leadership infrastructure reduces friction. It creates clarity around ownership, communication, and execution so organizations can continue functioning effectively even as complexity increases."
+      },
+      {
+        "heading": "Systems become necessary when complexity outpaces people.",
+        "body": "Without systems, people waste enormous amounts of time searching for information, clarifying ownership, recreating workflows, and manually transferring knowledge. This is why operational systems become necessary at scale, especially AI enabled ones. Well designed systems centralize information, preserve institutional knowledge, automate repetitive processes, and reduce operational friction across organizations. The value is not just efficiency. It is scalability. The larger an organization becomes, the less it can rely on memory, informal communication, and individual effort alone."
+      }
+    ]
+  }
+],
 
+"filters": [
+  "All",
+  "AI Strategy",
+  "Operations",
+  "Career"
+]
+};
 export const navItems = ["Work", "Projects", "Writing", "Contact"];
